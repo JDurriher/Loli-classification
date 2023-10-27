@@ -12,7 +12,7 @@ The training accuracy for the saved model is 91.77% while the test accuracy is 8
 ![Training and validation history](https://github.com/JDurriher/Loli-classification/assets/54914481/de4a601b-8e6c-4074-9e15-a914de7c98fd)
 
 Example of predictions on test set:
-![Test predictions](https://github.com/JDurriher/Loli-classification/assets/54914481/e25a8edf-602a-48ac-bd38-ec9ebc0c4e9a)
+![Test predictions](https://github.com/JDurriher/Loli-classification/assets/54914481/4802aefd-1786-4473-b62a-80ba43eb3544)
 
 
 The final test set of 16 images performed as below:
