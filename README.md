@@ -1,7 +1,7 @@
 # Loli-classification
 Using a convolutional neural network to classify loli's, because why not
 
-This model was trained on 3000 images of anime faces that were resized to 80x80 pixels
+This model (R.O.Y) was trained on 3000 images of anime faces that were resized to 80x80 pixels
 
 Each image was labelled either 0 (loli) or 1 (non-loli)
 
