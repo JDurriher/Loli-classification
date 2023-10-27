@@ -8,6 +8,12 @@ Each image was labelled either 0 (loli) or 1 (non-loli)
 The validation data was a set of 300 images while the final data (ds_final) was a set of 16 faces I wanted to try the model on
 
 The training accuracy for the saved model is 91.77% while the test accuracy is 83.67%
+![Training history data](https://github.com/JDurriher/Loli-classification/assets/54914481/33c9225c-dc0e-4959-be6a-1c9c93a202a3)
+![Training and validation history](https://github.com/JDurriher/Loli-classification/assets/54914481/de4a601b-8e6c-4074-9e15-a914de7c98fd)
+
+Example of predictions on test set:
+![Test predictions](https://github.com/JDurriher/Loli-classification/assets/54914481/e25a8edf-602a-48ac-bd38-ec9ebc0c4e9a)
+
 
 The final test set of 16 images performed as below:
 ![1_C C](https://github.com/JDurriher/Loli-classification/assets/54914481/2c0f5e4a-9c5c-4c97-adcd-c8b9ee18bbeb)
