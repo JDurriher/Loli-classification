@@ -1,4 +1,4 @@
-![10_Nezuko](https://github.com/JDurriher/Loli-classification/assets/54914481/5576d844-5a69-429a-a057-55cbed255d00)# Loli-classification
+# Loli-classification
 Using a convolutional neural network to classify loli's, because why not.
 
 This model (R.O.Y) was trained on 3000 images of anime faces that were resized to 80x80 pixels
